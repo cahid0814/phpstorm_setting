@@ -1,0 +1,5 @@
+<templateSet group="Zen HTML">
+  <template name="div" value="&lt;div class=&quot;$VAR0$&quot;&gt;&lt;/div&gt;&lt;!-- /.$VAR0$ --&gt;" description="&lt;div class=&quot;$VAR0$&quot;&gt;&lt;/div&gt;&lt;!-- /.$VAR0$ --&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
