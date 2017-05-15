@@ -1,5 +1,8 @@
 <templateSet group="Zen HTML">
-  <template name="div" value="&lt;div class=&quot;$VAR0$&quot;&gt;&lt;/div&gt;&lt;!-- /.$VAR0$ --&gt;" description="&lt;div class=&quot;$VAR0$&quot;&gt;&lt;/div&gt;&lt;!-- /.$VAR0$ --&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="div" value="&lt;div class=&quot;$VAR0$&quot;&gt;&lt;/div&gt;&lt;!-- /.$VAR0$ --&gt;" description="&lt;div class=&quot;$VARdi0$&quot;&gt;&lt;/div&gt;&lt;!-- /.$VAR0$ --&gt;" toReformat="false" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
   </template>
 </templateSet>
