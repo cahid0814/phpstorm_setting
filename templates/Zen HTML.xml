@@ -5,4 +5,10 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="div.$VAR0$" value="&lt;div class=&quot;$VAR0$&quot;&gt;&lt;/div&gt;&lt;!-- /.$VAR0$ --&gt;" shortcut="TAB" description="&lt;div class=&quot;$VAR0$&quot;&gt;&lt;/div&gt;&lt;!-- /.$VAR0$ --&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
