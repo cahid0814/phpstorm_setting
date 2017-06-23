@@ -1,6 +1,7 @@
 <templateSet group="Zen HTML">
   <template name="div" value="&lt;div class=&quot;$VAR0$&quot;&gt;&lt;/div&gt;&lt;!-- /.$VAR0$ --&gt;" shortcut="TAB" description="&lt;div class=&quot;$VAR0$&quot;&gt;&lt;/div&gt;&lt;!-- /.$VAR0$ --&gt;" toReformat="false" toShortenFQNames="true">
     <variable name="VAR0" expression="classNameComplete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
