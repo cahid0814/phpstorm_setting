@@ -5,6 +5,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="merge" type="PLAIN_TEXT" />
       <mapping pattern="てst" type="PLAIN_TEXT" />
+      <mapping pattern="te" type="PLAIN_TEXT" />
       <mapping ext="njk" type="Twig" />
     </extensionMap>
   </component>
