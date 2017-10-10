@@ -32,8 +32,11 @@
       <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.htm</mask>
-      <mask>*.html</mask>
       <mask>*.css</mask>
+      <mask>ht</mask>
+      <mask>html</mask>
+      <mask>*html</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
