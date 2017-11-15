@@ -5,6 +5,7 @@
       <list>
         <option value="shinseikai.txt" />
         <option value="scratch.md" />
+        <option value="scratch.scss" />
       </list>
     </option>
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
