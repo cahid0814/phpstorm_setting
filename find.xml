@@ -4,9 +4,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
@@ -22,19 +21,21 @@
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>ht</mask>
-      <mask>*html</mask>
       <mask>*</mask>
-      <mask>html</mask>
       <mask>htm</mask>
       <mask>*htm</mask>
       <mask>*.c</mask>
       <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.cs</mask>
-      <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.css</mask>
       <mask>*.scss</mask>
+      <mask>htmscss</mask>
+      <mask>htmlscss</mask>
+      <mask>html</mask>
+      <mask>*html</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
