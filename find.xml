@@ -4,13 +4,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.htl</mask>
@@ -30,12 +25,17 @@
       <mask>*.cs</mask>
       <mask>*.htm</mask>
       <mask>*.css</mask>
-      <mask>*.scss</mask>
       <mask>htmscss</mask>
       <mask>htmlscss</mask>
       <mask>html</mask>
       <mask>*html</mask>
       <mask>*.html</mask>
+      <mask>*.</mask>
+      <mask>*. s</mask>
+      <mask>*. sc</mask>
+      <mask>*. scs</mask>
+      <mask>*. scss</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
