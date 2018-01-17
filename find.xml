@@ -6,6 +6,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>htm</mask>
       <mask>*htm</mask>
@@ -23,7 +24,6 @@
       <mask>htmls</mask>
       <mask>*html</mask>
       <mask>html</mask>
-      <mask>*.html</mask>
       <mask>*.h</mask>
       <mask>*.js</mask>
       <mask>php</mask>
@@ -37,6 +37,7 @@
       <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.css</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
