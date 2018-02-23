@@ -7,5 +7,6 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="ide.tooltip.initialDelay" value="293" />
     <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
+    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
   </component>
 </application>
