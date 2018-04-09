@@ -3,11 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.htm" />
     <recentFileMasks>
       <mask>htm</mask>
       <mask>*htm</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
       <mask>htmscss</mask>
       <mask>*. s</mask>
       <mask>*. sc</mask>
@@ -28,12 +27,14 @@
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
-      <mask>*.htm</mask>
       <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
+      <mask>*.</mask>
+      <mask>*.htm</mask>
     </recentFileMasks>
   </component>
 </application>
